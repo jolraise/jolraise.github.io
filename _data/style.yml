@@ -4,7 +4,8 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/jolraise_4096x2304.png"
+#header-image: "../img/jolraise_4096x2304.png"
+header-image: "../img/header.png"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over

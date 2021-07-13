@@ -11,10 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to jolraise Game Studio!
+    text: Creating amazing games with pleasure
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
+
+  portfolio:
+    title: "Games"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
 
   services:
     title: "Services"
@@ -30,12 +36,6 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
 
   timeline:
     title: "About"

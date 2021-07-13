@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Privacy Policy
+  link: /privacypolicy
+- name: Terms Of Use
+  link: /termsofuse
+- name: Cookie Notice
+  link: /cookienotice

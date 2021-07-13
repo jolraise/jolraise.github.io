@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Games"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   services:
     title: "Services"

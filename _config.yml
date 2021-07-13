@@ -21,7 +21,7 @@ email      : jolraise@gmail.com #this is also the email contact forms will go to
 description: "jolraise game studio"
 author     : jolraise
 logo:     #optional, defaults to site title
-  path     : assets\img\jolraise_409x230.png
+  path     : assets\img\jolraise_white.png
 # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml

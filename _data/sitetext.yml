@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     list:
       - title: "Game development"
         desc: "Implementation and Maintenance of the games."
-        icon: fas fa-alien #find more at https://fontawesome.com/icons
+        icon: fas fa-angellist #find more at https://fontawesome.com/icons
       - title: "Design"
         desc: "New games ideas with attention to details."
         icon: fas fa-laptop

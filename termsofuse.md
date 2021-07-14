@@ -393,14 +393,15 @@ jolraise may change this Terms of Use/Service from time to time. All changes her
 which is why jolraise encourages Users to frequently check this page for any changes to this Terms of Use/Service. 
 Changes hereto will not prejudice Users' rights without their consent.
 
+
 ## Contact Us
 If you have any questions about this Terms Of Use or [Privacy Policy](https://jolraise.com/privacypolicy), please contact us.
 
 
-Email: <a href="mailto:jolraise+legal@gmail.com">jolraise+legal@gmail.com</a>  
-jolraise Website: https://jolraise.com
+**Email:** <a href="mailto:jolraise+legal@gmail.com">jolraise+legal@gmail.com</a>  
+**jolraise Website:** [jolraise.com](https://jolraise.com)
 
-
+**Address:**  
 jolraise Ltd  
 Grushevskogo 129a  
 Lviv, Rudno  

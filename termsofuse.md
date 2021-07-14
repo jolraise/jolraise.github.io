@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: jolraise | Terms Of Use
+background: grey
 ---
 
-termsofuse
+# Terms Of Use

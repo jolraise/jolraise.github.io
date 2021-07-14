@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         desc: "New games ideas with attention to details."
         icon: fas fa-laptop
       - title: "Release"
-        desc: "Release under any mobile platforms. Monetization strategies. Meet milestones properly."
+        desc: "Release under any mobile platform. Monetization strategies. Meet milestones properly."
         icon: fab fa-airbnb
 
   timeline:

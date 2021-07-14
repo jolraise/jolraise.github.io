@@ -115,3 +115,53 @@ We may process your personal information in order to protect your vital interest
 
 
 ## Data processing in the United States
+
+
+jolraise is headquartered in Ukraine. By accessing or using the Services or otherwise providing your information to us, you acknowledge 
+that your personal information may be accessed by us or transferred to us in Ukraine and to our affiliates, partners, and service providers 
+who are located around the world; and that your personal data will be transferred to, and stored and processed in, the Ukraine or 
+elsewhere in the world where our servers are located.
+
+
+If you are based in the EU, we will only process your personal information for a purpose described in this Privacy Policy if 
+(1) you have provided your consent (which can be withdrawn at any time), 
+(2) the processing is necessary for the performance of a contract we are about to enter into or have entered into with you, 
+(3) we are required by law, 
+(4) processing is required to protect your vital interests or those of another person, or 
+(5) the processing is necessary for the purposes of our legitimate commercial interests (except where such interests are overridden by your rights and interests).
+
+
+## How we share your information
+
+
+We may share and transfer your information (both inside and outside the country you live in) as provided in this section 
+or as otherwise described in this Privacy Policy.
+
+
+#### Non-Personal Information
+We may use, disclose to our partners and vendors acting on our behalf; or to publish aggregated, 
+anonymous information about our players for industry analysis, demographic profiling, marketing, analytics, 
+provision of advertising, and other business purposes.
+
+
+#### Personal Information
+We may share your information, including personal information, with third parties or allow third parties to collect this 
+information from our Services, as follows:
+* With your consent or at your direction and in some ways not specifically described in this Privacy Policy, 
+  including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information;
+* We may use third party service providers such as credit card processors, email service providers, shipping agents, data analyzers and 
+  business intelligence providers; when we transfer any of your personal information to such a third party service provider, 
+  that entity will be contractually required, among other things, 
+  (a) to use such information only to carry out those services that we have requested, 
+  (b) to abide by this Privacy Policy, and 
+  (c) to provide adequate protection for such information (as required by applicable legal requirements);
+* We may disclose personal information in response to a request for information if we believe disclosure is in accordance 
+  with any applicable law, regulation, or legal process; or is otherwise required by any applicable law, rule or regulation;
+* We may disclose your personal information if we have a reason to believe that a disclosure is necessary to address a potential 
+  or actual injury or interference with our rights, property, operations, users or other who may be harmed or may suffer 
+  loss or damage, or we believe such disclose is necessary to protect jolraise’s rights; or
+* In connection with, or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion 
+  of our business to another company.
+
+
+## Managing your information

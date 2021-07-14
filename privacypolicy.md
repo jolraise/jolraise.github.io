@@ -420,11 +420,11 @@ you will not be able to exercise the right to access, the right to erasure, the 
 If you have any questions about this Privacy Policy, please contact us.
 
 
-Email: jolraise+legal@gmail.com
+Email: jolraise+legal@gmail.com  
 jolraise Website: https://jolraise.com
 
 
-jolraise Ltd
-Grushevskogo 129a
-Lviv, Rudno
-Ukraine
+jolraise Ltd  
+Grushevskogo 129a  
+Lviv, Rudno  
+Ukraine  
